@@ -1,3 +1,2 @@
 # FunGalaxy
-Open education project which wants to make education (grades K-10) FUN using Fun Galaxy open transmedia world
-We have open sourced all of this under CC-BY-4.0 License. To attribute please link back to fun2dolabs.org .
+Fun2Do Labs open education project wants to make education open and fun for kids. As part of Fun2Do Labs open education project we have started Fun Galaxy open education transmedia world. Anyone uploading to this repository will be transferring all Intellectual Property rights (including Copyright) to SKJ Technologies Private Ltd which will make all the content open under CC-BY-4.0 License. To attribute please link back to fun2dolabs.org .
